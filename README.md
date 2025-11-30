@@ -34,9 +34,23 @@ I'm a passionate **Full Stack Developer specializing in the MERN stack**, focuse
 
 ---
 
+## 📈 Contribution Graph & Activity Graph
+
+### 🔥 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=patil-bhupendra&theme=tokyo-night&hide_border=true" />
+</p>
+
+### ⚡ GitHub Activity Graph (Alternate)
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=patil-bhupendra&theme=react-dark" />
+</p>
+
+---
+
 ## 🔗 Connect With Me
 <p align="left">
-  <a href="mailto:bhupendrarajput1232@gmailcom"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:bhupendrarajput1232@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/patil-bhupendra"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/patil-bhupendra"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
