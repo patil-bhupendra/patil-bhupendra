@@ -41,11 +41,6 @@ I'm a passionate **Full Stack Developer specializing in the MERN stack**, focuse
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=patil-bhupendra&theme=tokyo-night&hide_border=true" />
 </p>
 
-### ⚡ GitHub Activity Graph (Alternate)
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=patil-bhupendra&theme=react-dark" />
-</p>
-
 ---
 
 ## 🔗 Connect With Me
