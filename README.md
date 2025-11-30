@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm a Full Stack Developer</h1>
+<h1 align="center">Hi 👋, I'm Bhupendra Patil</h1>
 <h3 align="center">Full Stack Developer | MERN Stack Enthusiast | Backend Explorer</h3>
 
 <!-- Typing Animation -->
