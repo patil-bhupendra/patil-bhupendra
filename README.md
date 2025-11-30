@@ -76,5 +76,5 @@ and I believe **every day is an opportunity to learn something new**. 🚀
 
 ## 🛠 Tools I Use
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,figma" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github" />
 </p>
