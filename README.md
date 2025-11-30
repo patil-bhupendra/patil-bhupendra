@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm a Full Stack Developer</h1>
-<h3 align="center">MERN Stack Developer | React Enthusiast | Backend Explorer</h3>
+<h3 align="center">Full Stack Developer | MERN Stack Enthusiast | Backend Explorer</h3>
 
 <!-- Typing Animation -->
 <p align="center">
@@ -11,7 +11,6 @@
 ## 👨‍💻 About Me
 I'm a passionate **Full Stack Developer specializing in the MERN stack**, focused on building responsive, scalable, and high-performance web applications.
 
-- 🚀 Built **3 major full-stack projects** (Trading Platform, Bookstore App, Wanderlust)
 - 🔐 Experienced with **secure authentication using JWT & OAuth (Google Auth)**
 - 🎨 Love creating clean, modern UI/UX using **React + Tailwind**
 - ⚙️ Strong understanding of **API design, MongoDB modeling, and Express architecture**
@@ -27,25 +26,6 @@ I'm a passionate **Full Stack Developer specializing in the MERN stack**, focuse
 
 ---
 
-## 📌 Featured Projects
-
-### 📈 MERN Stock Trading Platform
-- Holdings, funds, orders & watchlist  
-- Realistic UI like Zerodha/Upstox  
-- React, Node, Express, MongoDB, Redux Toolkit
-
-### 📚 Bookstore Web Application (MERN)
-- User + Admin roles  
-- Cart, checkout, category filtering  
-- Google Auth, JWT, Swiper.js
-
-### 🧳 Wanderlust (Airbnb-like Travel App)
-- EJS templates, authentication, authorization  
-- Listing creation, edit, delete  
-- Custom UI + MongoDB + Express
-
----
-
 ## 📊 GitHub Stats
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=patil-bhupendra&show_icons=true&theme=tokyonight" />
@@ -56,7 +36,7 @@ I'm a passionate **Full Stack Developer specializing in the MERN stack**, focuse
 
 ## 🔗 Connect With Me
 <p align="left">
-  <a href="mailto:your-email-here"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:bhupendrarajput1232@gmailcom"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/patil-bhupendra"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/patil-bhupendra"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
