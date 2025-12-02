@@ -42,9 +42,8 @@ Here are some of my key projects:
 ## 📊 GitHub Stats
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=patil-bhupendra&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=patil-bhupendra&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patil-bhupendra&layout=compact&theme=tokyonight" />
 </p>
-
 
 ---
 
