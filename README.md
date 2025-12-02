@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Bhupendra Patil</h1>
 <h3 align="center">Full Stack Developer | MERN Stack Enthusiast | Backend Explorer</h3>
 
@@ -47,9 +46,7 @@ Here are some of my key projects:
 
 ---
 
-## 📈 Contribution Graph & Activity Graph
-
-### 🔥 Contribution Graph
+## 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=patil-bhupendra&theme=tokyo-night&hide_border=true" />
 </p>
@@ -78,4 +75,3 @@ Here are some of my key projects:
 I love building **real-world projects that solve real problems** — and I believe **every day is an opportunity to learn something new**. 🚀  
 
 > “Build. Improve. Repeat.”
-
