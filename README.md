@@ -17,20 +17,6 @@ I'm a passionate **Full Stack Developer specializing in the MERN stack**, focuse
 - 🧠 Improving skills in **system design, performance optimization, and DevOps**
 - 📚 MCA Graduate (CGPA 8.7) | B.Sc. CS (CGPA 9.2)
 
----
-
-## 🏗️ Projects
-Here are some of my key projects:
-
-- **Bookstore Web App** – MERN stack with JWT auth, cart & admin dashboard  
-  [GitHub Repo](https://github.com/patil-bhupendra/bookstore)  
-- **Stock Trading Platform** – Full-stack trading simulator with watchlist, orders & funds management  
-  [GitHub Repo](https://github.com/patil-bhupendra/stock-trading-platform)  
-- **Wanderlust** – Travel platform using EJS, MongoDB & custom CSS for listings and bookings  
-  [GitHub Repo](https://github.com/patil-bhupendra/wanderlust)
-
----
-
 ## 🚀 Tech Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,redux,js,html,css,tailwind,nodejs,express,mongodb,postman,vite,git,github,vscode" />
