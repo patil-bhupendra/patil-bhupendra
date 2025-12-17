@@ -44,7 +44,7 @@ I'm a passionate **Full Stack Developer specializing in the MERN stack**, focuse
 - System design fundamentals  
 - Testing (Jest, Supertest)  
 - CI/CD & basic DevOps  
-- API performance optimization  
+
 
 ---
 
