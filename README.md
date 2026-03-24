@@ -1,5 +1,5 @@
 <h1 align="center">Bhupendra Patil</h1>
-<h3 align="center">Full-Stack MERN Developer | React.js, Node.js, Express.js, MongoDB</h3>
+<h3 align="center">Full-Stack Developer | MERN Stack | React.js, Node.js, Express.js, MongoDB</h3>
 
 <p align="center">
   Building scalable, responsive, and secure full-stack web applications with modern JavaScript technologies.
@@ -21,34 +21,30 @@ I am a **Full-Stack Developer specializing in the MERN stack**, focused on build
 ## 🚀 Featured Projects
 
 ### 📚 [MERN Bookstore Web Application](https://github.com/patil-bhupendra/bookStoreApp)
-A full-stack bookstore platform with **authentication, admin dashboard, category filtering, cart, checkout, and order management**.
-
+Full-stack bookstore platform featuring **JWT authentication, admin dashboard, category filtering, cart, checkout, and order management**.  
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Redux Toolkit, RTK Query, Tailwind CSS, JWT  
-**Live Demo:** [Add your deployed link here](https://book-store-camp.vercel.app/)
+**Live Demo:** [View Live Demo](https://book-store-camp.vercel.app/)
 
 ---
 
 ### 📈 [MERN Stock Trading Platform](https://github.com/patil-bhupendra/Stock-Trading-Platform)
-A modern stock trading dashboard featuring **holdings, orders, watchlist, funds management, and interactive UI components**.
-
+Modern trading dashboard featuring **holdings, orders, watchlist, funds management, and interactive UI components**.  
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS, Chart.js  
-**Live Demo:** [Add your deployed link here](https://stock-trading-platform-puce.vercel.app/)
+**Live Demo:** [View Live Demo](https://stock-trading-platform-puce.vercel.app/)
 
 ---
 
 ### 🌍 [Wanderlust Travel Platform](https://github.com/patil-bhupendra/Wanderlust-Project)
-A full-stack travel listing platform inspired by Airbnb, with **authentication, property listings, image uploads, reviews, and map/location-based features**.
-
+Full-stack travel listing platform featuring **authentication, property listings, image uploads, reviews, and map-based location features**.  
 **Tech Stack:** Node.js, Express.js, MongoDB, EJS, Bootstrap, Cloudinary, Map Integration  
-**Live Demo:** [Add your deployed link here](https://wanderlust-hub.vercel.app/listings)
+**Live Demo:** [View Live Demo](https://wanderlust-hub.vercel.app/listings)
 
 ---
 
 ### 💼 [Developer Portfolio](https://github.com/patil-bhupendra/bhupendra-portfolio)
-A personal portfolio website showcasing **projects, skills, and experience** with a **modern responsive UI**.
-
+Personal portfolio showcasing **projects, skills, and experience** with a **modern responsive UI**.  
 **Tech Stack:** React.js, Tailwind CSS, Framer Motion  
-**Live Demo:** [Add your portfolio live link here](https://bhupendra-portfolio-cyan.vercel.app/)
+**Live Demo:** [View Live Demo](https://bhupendra-portfolio-cyan.vercel.app/)
 
 ---
 
@@ -71,6 +67,6 @@ A personal portfolio website showcasing **projects, skills, and experience** wit
 ## 🔗 Connect With Me
 <p align="left">
   <a href="mailto:bhupendrarajput1232@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/patil-bhupendra"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/patil-bhupendra"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/patil-bhupendra"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
