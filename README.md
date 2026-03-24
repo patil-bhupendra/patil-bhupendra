@@ -1,40 +1,60 @@
-<h1 align="center">Hi 👋, I'm Bhupendra Patil</h1>
-<h3 align="center">Full Stack Developer | MERN Stack Enthusiast | Backend Explorer</h3>
+<h1 align="center">Bhupendra Patil</h1>
+<h3 align="center">Full-Stack MERN Developer | React.js, Node.js, Express.js, MongoDB</h3>
 
-<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;React+%7C+Node+%7C+Express+%7C+MongoDB;Building+Scalable+%26+Modern+Web+Apps;Always+Learning%2C+Always+Building" />
+  Building scalable, responsive, and secure full-stack web applications with modern JavaScript technologies.
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-I'm a passionate **Full Stack Developer specializing in the MERN stack**, focused on building **responsive, scalable, and high-performance web applications**.
+I am a **Full-Stack Developer specializing in the MERN stack**, focused on building **real-world, production-oriented web applications** with clean UI, secure authentication, and scalable backend architecture.
 
-- 🔐 Experienced with **secure authentication using JWT & OAuth (Google Auth)**
-- 🎨 Skilled in creating clean, modern **UI/UX with React + Tailwind**
-- ⚙️ Strong understanding of **API design, MongoDB modeling, and Express architecture**
-- 🧠 Improving skills in **system design, performance optimization, and DevOps**
-- 📚 MCA Graduate (CGPA 8.7) | B.Sc. CS (CGPA 9.2)
+- 🔐 Experienced with **JWT Authentication** and **Google OAuth**
+- ⚙️ Strong understanding of **REST APIs, MongoDB schema design, and Express architecture**
+- 🎨 Skilled in building **responsive UI** with **React.js, Tailwind CSS, Redux Toolkit, and RTK Query**
+- 🧠 Currently improving in **system design, testing, performance optimization, and DevOps fundamentals**
+- 🎓 **MCA Graduate (CGPA: 8.7)** | **B.Sc. Computer Science (CGPA: 9.2)**
 
-## 🚀 Tech Stack
+---
+
+## 🚀 Featured Projects
+
+### 📚 [MERN Bookstore Web Application](https://github.com/patil-bhupendra/bookStoreApp)
+A full-stack bookstore platform with **authentication, admin dashboard, category filtering, cart, checkout, and order management**.
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Redux Toolkit, RTK Query, Tailwind CSS, JWT  
+**Live Demo:** Add your deployed link here
+
+---
+
+### 📈 [MERN Stock Trading Platform](https://github.com/patil-bhupendra/Stock-Trading-Platform)
+A modern stock trading dashboard featuring **holdings, orders, watchlist, funds management, and interactive UI components**.
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS, Chart.js  
+**Live Demo:** Add your deployed link here
+
+---
+
+### 🌍 [Wanderlust Travel Platform](https://github.com/patil-bhupendra/Wanderlust-Project)
+A full-stack travel listing platform inspired by Airbnb, with **authentication, property listings, image uploads, reviews, and map/location-based features**.
+
+**Tech Stack:** Node.js, Express.js, MongoDB, EJS, Bootstrap, Cloudinary, Map Integration  
+**Live Demo:** Add your deployed link here
+
+---
+
+### 💼 [Developer Portfolio](https://github.com/patil-bhupendra/bhupendra-portfolio)
+A personal portfolio website showcasing **projects, skills, and experience** with a **modern responsive UI**.
+
+**Tech Stack:** React.js, Tailwind CSS, Framer Motion  
+**Live Demo:** Add your portfolio live link here
+
+---
+
+## 🛠️ Tech Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,redux,js,html,css,tailwind,nodejs,express,mongodb,postman,vite,git,github,vscode" />
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=patil-bhupendra&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patil-bhupendra&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=patil-bhupendra&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -42,8 +62,8 @@ I'm a passionate **Full Stack Developer specializing in the MERN stack**, focuse
 ## 📘 Currently Learning
 - Advanced React patterns  
 - System design fundamentals  
-- Testing (Jest, Supertest)  
-- CI/CD & basic DevOps  
+- Testing with Jest & Supertest  
+- CI/CD and basic DevOps  
 - API performance optimization  
 
 ---
@@ -54,10 +74,3 @@ I'm a passionate **Full Stack Developer specializing in the MERN stack**, focuse
   <a href="https://github.com/patil-bhupendra"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/patil-bhupendra"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
-
----
-
-## 🎉 Fun Fact
-I love building **real-world projects that solve real problems** — and I believe **every day is an opportunity to learn something new**. 🚀  
-
-> “Build. Improve. Repeat.”
