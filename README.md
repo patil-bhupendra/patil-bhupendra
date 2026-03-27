@@ -24,12 +24,3 @@ I’m a **Full-Stack Developer specializing in the MERN stack**, focused on buil
 </p>
 
 ---
-
-## 📘 Currently Learning
-- Advanced React patterns
-- System design fundamentals
-- Testing with Jest & Supertest
-- CI/CD and basic DevOps
-- API performance optimization
-
----
