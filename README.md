@@ -13,20 +13,8 @@ I’m a **Full-Stack Developer specializing in the MERN stack**, focused on buil
 - 🔐 Hands-on experience with **JWT Authentication**, **Google OAuth**, and **protected routes**
 - ⚙️ Strong understanding of **REST API development**, **MongoDB schema design**, and **Express.js backend architecture**
 - 🎨 Skilled in building **responsive UI** using **React.js, Tailwind CSS, Redux Toolkit, and RTK Query**
-- 🧠 Currently improving in **system design, testing, performance optimization, and DevOps fundamentals**
+- 🧠 Currently exploring React.js, Node.js, MongoDB, and DSA in Java.
 - 🎓 **MCA Graduate (CGPA: 8.7)** | **B.Sc. Computer Science (CGPA: 9.2)**
-
----
-
-## 📌 Core Strengths
-- Full-stack MERN application development
-- Authentication & authorization (**JWT / OAuth**)
-- REST API design and integration
-- State management with **Redux Toolkit / RTK Query**
-- MongoDB schema design and CRUD workflows
-- Responsive UI development with **React + Tailwind CSS**
-- Backend routing, middleware, and controller-based architecture
-- Building practical, portfolio-grade real-world projects
 
 ---
 
