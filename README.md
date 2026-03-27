@@ -5,18 +5,6 @@
   I build practical, production-oriented full-stack web applications with responsive UI, secure authentication, and scalable backend architecture.
 </p>
 
-<p align="center">
-  <a href="mailto:bhupendrarajput1232@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/patil-bhupendra">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/patil-bhupendra">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
