@@ -30,15 +30,6 @@ I’m a **Full-Stack Developer specializing in the MERN stack**, focused on buil
 
 ---
 
-## 💼 Open To Opportunities
-- Full-Stack Developer (MERN Stack)
-- Frontend Developer (React.js)
-- Backend Developer (Node.js / Express.js)
-- Internship / Entry-Level Full-Time Roles
-- Open to remote, onsite, and hybrid opportunities
-
----
-
 ## 📌 Core Strengths
 - Full-stack MERN application development
 - Authentication & authorization (**JWT / OAuth**)
